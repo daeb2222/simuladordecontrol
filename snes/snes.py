@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 clk = pygame.time.Clock()
-
+#a ver si se sube el commit
 size = width, height = 256, 256
 screen = pygame.display.set_mode(size)
 background_image = pygame.image.load('./templates/control.png').convert()
